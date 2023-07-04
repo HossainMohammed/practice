@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 hello this is in test
+=======
+hello in main
+>>>>>>> master
